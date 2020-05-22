@@ -16,7 +16,7 @@ from matplotlib import cm
 from matplotlib.ticker import LinearLocator, FormatStrFormatter
 import matplotlib.pyplot as plt
 import numpy as np
-
+#tao duc day
 
 class OPP():
     def useQueues(self):
